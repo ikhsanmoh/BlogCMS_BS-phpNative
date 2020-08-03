@@ -1,0 +1,26 @@
+/* 
+.navbar {
+  min-height: 33px !important;
+  margin-bottom: 0;
+}
+
+.navbar-nav > li > a, .navbar-brand {
+  padding-top: 6px !important;
+  padding-bottom: 0 !important;
+  height: 33px;
+} 
+*/
+
+/* Main Header */
+#header {
+  color: #ffffff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+}
+
+/* Custom Responsive */
+@media (min-width: 1350px) {
+  .container{
+    max-width: 1800px;
+}}
